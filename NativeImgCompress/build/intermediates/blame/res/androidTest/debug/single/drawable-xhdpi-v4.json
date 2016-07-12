@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ImageCompress\\NativeImgCompress\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ImageCompress\\NativeImgCompress\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\ImageCompress\\NativeImgCompress\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\kejiang\\sample\\ImageCompress\\NativeImgCompress\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    }
+]
